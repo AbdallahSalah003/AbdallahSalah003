@@ -3,7 +3,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Abdallah!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:207068&fontColor=ffffff)
 </div>
 <h3 align='center'> 
-    I'm a computer engineer with a strong academic background and hands-on experience in Backend development. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others. Learn more about me by visiting my Website <a href="https:/">Coming Soon...</a>.
+   About
+Passionate computer engineering student with a strong interest in competitive programming. 
+Aspiring Backend development Nodejs, Java. My skill set includes working with databases like SQL, MongoDB, also have low-level programming languages experience C/C++ and Linux. Driven to learn, innovate, and excel in the tech industry. <a href="https:/">Coming Soon...</a>.
 </h3>
 
 
