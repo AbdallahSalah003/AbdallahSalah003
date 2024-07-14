@@ -4,7 +4,7 @@
 </div>
 <h3 align='center'> 
 Passionate computer engineering student with a strong interest in competitive programming. 
-Aspiring Backend development Nodejs, Java. My skill set includes working with databases like SQL, MongoDB, also have low-level programming languages experience C/C++ and Linux. Driven to learn, innovate, and excel in the tech industry. <a href="https:/">Coming Soon...</a>.
+Aspiring Backend development Nodejs, Java. My skill set includes working with databases like SQL, MongoDB, also have low-level programming languages experience C/C++ and Linux. Driven to learn, innovate, and excel in the tech industry.
 </h3>
 
 
